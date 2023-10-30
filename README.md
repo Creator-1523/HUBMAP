@@ -8,3 +8,5 @@
 
 ## Note the Output Images are in Blue They are needed to be treated by an image editing software, Linked below
 [https://imagej.net/ij/download.html](url)
+## After Treating Image in ImageJ
+<img width="387" alt="image" src="https://github.com/Creator-1523/HUBMAP/assets/83634457/a4dbec13-8c54-4620-a040-9306baf393e8">
